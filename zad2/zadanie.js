@@ -1,7 +1,8 @@
 function wiek() {
     wiek = 18;
     if (wiek >= 18)
-     "jestes pelnoletni";
-    else "nie jestes pelnoletni";
+     alert ("jestes pelnoletni");
+    else 
+    alert ("nie jestes pelnoletni");
 
 }
